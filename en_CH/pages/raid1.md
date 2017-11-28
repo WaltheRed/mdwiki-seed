@@ -1,5 +1,5 @@
-RAID 1
-======
+Setup RAID 1
+============
 
 Packages
 --------

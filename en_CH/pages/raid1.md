@@ -1,26 +1,38 @@
 RAID 1
 ======
 
-Install packages
+Packages
+--------
+
     apt install mdadm parted
 
-Partitioning (repeat for all disks)
+Prepare disks (repeat for both disks)
 -----------------------------------
 
-For UEFI use GPT
+Create a new partition table.
+
     parted /dev/sde mklabel gpt
 
-Create a single partition (with reserves)
+Create a new new partition.
+
     parted -a optimal -- /dev/sde mkpart primary 2048s -8192s
 
-Init RAID 1
-    parted /dev/sde set 1 raid on
+Enable RAID on device.
+
+    parted /dev/sde set 1 raid on # asdf
 
 Create RAID
 -----------
 
-RAID 1
+Init the RAID.
+
     mdadm --create /dev/md0 --auto md --level=1 --raid-devices=2 /dev/sde1 /dev/sdf1
 
-Make file system
+Make file system.
+
     mkfs.ext4 /dev/md0
+
+Souce
+-----
+
+[ubuntuusers/Software-RAID](https://wiki.ubuntuusers.de/Software-RAID/)

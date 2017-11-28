@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# My wiki
 
 
 <!--
@@ -25,19 +25,9 @@
 
 [Guides]()
 
-  * # SubMenu Heading 1
-  * [SFTP server](pages/sftp-server.md)
-  * [RAID1 ](pages/raid1.md)
-  - - - -
-  * # SubMenu Heading 2
-  * [SubMenu Item 3](pages/subitem3.md)
-  - - - -
-  * # SubMenu Heading 3
-  * [SubMenu Item 3](pages/subitem3.md)
-
-[Menu Item 2](pages/item2.md)
-
-[Menu Item 3](pages/item3.md)
+  * # Linux
+  * [Setup SFTP server for remote access](pages/sftp-server.md)
+  * [Setup RAID 1 with two disks](pages/raid1.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 

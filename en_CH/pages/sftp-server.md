@@ -1,10 +1,13 @@
-#Setup a SFTP server
+Setup a SFTP server
+===================
 
-[Source](https://web.archive.org/web/20171127160057/https://goneuland.de/debian-8-jessie-sftp-server-einrichten/)
-
-Install the openssh-server package.
+Package
+-------
 
     apt-get install openssh-server
+
+How To
+------
 
 Create a group for your sftp enabled users.
 
@@ -27,7 +30,12 @@ Prevent test_user from leaving his home directory.
     chown root:root /home/test_user
     chmod 755 /home/test_user
 
+Create dir that the user can put stuff into.
 
+    mkdir /home/test/upload
+    chown test:sftp_users /home/test/upload
 
-mkdir /home/test/upload
-chown test:sftp_users /home/test/upload
+Source
+------
+
+[Source](https://web.archive.org/web/20171127160057/https://goneuland.de/debian-8-jessie-sftp-server-einrichten/)

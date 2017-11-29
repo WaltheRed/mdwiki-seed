@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# My wiki
 
 
 <!--
@@ -19,8 +19,15 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
+[Linux tricks](pages/tricks.md)
 [About](pages/about.md)
 [Download](pages/download.md)
+
+[Guides]()
+
+  * # Linux
+  * [Setup SFTP server for remote access](pages/sftp-server.md)
+  * [Setup RAID 1 with two disks](pages/raid1.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 

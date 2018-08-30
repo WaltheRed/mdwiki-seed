@@ -1,16 +1,27 @@
 Linux tricks
 ============
 
+Files
+-----
+
+Create a file (update the access and modification times)
+
+    touch ./file
+
+See: [touch](https://ss64.com/bash/touch.html)
+
+
 Disk speed
 ----------
 
-of=TARGET-FILE
+*if = input file*
+*of = output file*
 
-Write 1GB w/ cache
+write 1GB w/ cache
 
     dd if=/dev/zero of=/root/testfile bs=1G count=1 oflag=direct
 
-Write 1GB w/out cache
+Write 1GB w/o cache
 
     dd if=/dev/zero of=/root/testfile bs=1G count=1 oflag=direct
 
@@ -36,3 +47,22 @@ add lines to config file
 
 restart service
     systemctl restart smbd.service
+
+[chmod](https://ss64.com/bash/chmod.html) (file attributes)
+-----------------------
+
+Make file executable
+
+    chmod +x ./file
+
+[chown](https://ss64.com/bash/chown.html) (file ownership)
+----------------------
+
+Just remember how to command is called for now, ok? :)
+
+APT
+---
+
+    apt install ./name.deb
+
+[Source](http://archive.is/R3s7R)

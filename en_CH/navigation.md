@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# My wiki
+# WaltheReds' Wiki
 
 
 <!--

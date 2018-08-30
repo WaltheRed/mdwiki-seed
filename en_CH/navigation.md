@@ -18,6 +18,7 @@
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
+
 [Links](pages/links.md)
 [Linux tricks](pages/tricks.md)
 [About](pages/about.md)

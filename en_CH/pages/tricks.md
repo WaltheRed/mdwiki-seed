@@ -48,15 +48,19 @@ add lines to config file
 restart service
     systemctl restart smbd.service
 
-[chmod](https://ss64.com/bash/chmod.html) (file attributes)
+chmod (file attributes)
 -----------------------
 
 Make file executable
 
     chmod +x ./file
 
-[chown](https://ss64.com/bash/chown.html) (file ownership)
+[chmod](https://ss64.com/bash/chmod.html)
+
+chown (file ownership)
 ----------------------
+
+[chown](https://ss64.com/bash/chown.html)
 
 Just remember how to command is called for now, ok? :)
 

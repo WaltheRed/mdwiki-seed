@@ -10,3 +10,5 @@ Links to awesome pages
 [Markdown Cheat Sheet 2](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) on github
 
 [arch wiki](https://wiki.archlinux.org/)
+
+[WikiChip](https://en.wikichip.org/)

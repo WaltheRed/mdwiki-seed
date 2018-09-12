@@ -1,5 +1,5 @@
 awesome pages
-======================
+-------------
 
 [SS64](https://ss64.com/) command line reference
 
@@ -14,7 +14,7 @@ awesome pages
 [WikiChip](https://en.wikichip.org/)
 
 must-read(s)
-==========
+------------
 
 [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/)
 

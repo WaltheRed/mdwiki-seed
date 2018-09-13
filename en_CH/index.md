@@ -16,6 +16,10 @@ awesome pages
 
 [WikiChip](https://en.wikichip.org/)
 
+[Best Vim Tips](vim.wikia.com/wiki/Best_Vim_Tips)
+
+[vi/vim tips](http://www.viemu.com/vi_vim_tips.html)
+
 must-read(s)
 ------------
 

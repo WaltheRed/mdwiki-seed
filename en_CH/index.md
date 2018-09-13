@@ -20,6 +20,8 @@ awesome pages
 
 [vi/vim tips](http://www.viemu.com/vi_vim_tips.html)
 
+[Shell Scripting Tutorial](https://www.shellscript.sh/)
+
 must-read(s)
 ------------
 

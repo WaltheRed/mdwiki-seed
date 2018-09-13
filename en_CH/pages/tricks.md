@@ -70,3 +70,14 @@ APT
     apt install ./name.deb
 
 [Source](http://archive.is/R3s7R)
+
+convert between dos and unix files (using vim)
+----------------------------------------------
+
+from dos to unix
+
+    :set ff=unix
+
+from unix to dos
+
+    :set ff=dos

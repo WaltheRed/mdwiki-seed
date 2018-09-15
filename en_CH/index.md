@@ -8,17 +8,32 @@ awesome pages
 
 [tldr](https://tldr.ostera.io/) simple & short manpages
 
-[Markdown Cheat Sheet 1](https://www.markdownguide.org/cheat-sheet)  by markdownguide.org
-
-[Markdown Cheat Sheet 2](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) on github
-
 [arch wiki](https://wiki.archlinux.org/)
 
 [WikiChip](https://en.wikichip.org/)
 
-[Best Vim Tips](http://vim.wikia.com/wiki/Best_Vim_Tips)
+cheatsheets
+-----------
 
-[vi/vim tips](http://www.viemu.com/vi_vim_tips.html)
+[Markdown by markdownguide.org](https://www.markdownguide.org/cheat-sheet) 
+
+[Markdown on github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[vim quick reference card(s)](http://tnerual.eriogerg.free.fr/vim.html) ([html](http://tnerual.eriogerg.free.fr/vimqrc.html), [pdf](http://tnerual.eriogerg.free.fr/vimqrc.pdf))
+
+[vim shortcuts (one topic per page)](https://www.cs.oberlin.edu/~kuperman/help/vim/windows.html)
+
+[vim shortcuts (all in one)](https://vim.rtorr.com/)
+
+vim
+---
+
+[vim tips on vim.wikia.com](http://vim.wikia.com/wiki/Best_Vim_Tips)
+
+[vi/vim tips by viemu.com](http://www.viemu.com/vi_vim_tips.html)
+
+shell
+-----
 
 [Shell Scripting Tutorial](https://www.shellscript.sh/)
 

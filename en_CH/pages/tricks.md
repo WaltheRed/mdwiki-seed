@@ -1,6 +1,24 @@
 Linux tricks
 ============
 
+I/O redirection
+---------------
+
+    echo "foo" > bar  # write to file
+    echo "foo" >> bar  # append to file
+
+| "Symbol" | Description      |
+| -------- | ---------------- |
+| >        | stdout           |
+| 1>       | "                | 
+| 2>       | stderr           | 
+| &>       | stdout & stdout  | 
+| 2>&1     | stderr to stdout |
+
+[Source & more](https://www.tldp.org/LDP/abs/html/io-redirection.html)
+
+
+
 Files
 -----
 

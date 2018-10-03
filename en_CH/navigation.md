@@ -10,8 +10,8 @@
 
 [Linux tricks](pages/tricks.md)
 
-[Guides](pages/guides.md)
-
+[Guides]()
+  * [Overview](guides.md)
   * # Linux
   * [Setup SFTP server for remote access](pages/sftp-server.md)
   * [Setup RAID 1 with two disks](pages/raid1.md)

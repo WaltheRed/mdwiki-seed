@@ -27,14 +27,13 @@
   - - - -
 
 [Snippets]()
-
-* [C](snippets-c.md)
-* [Python](snippets-python.md)
-* [Batch](snippets-batch.md)
-* [Java](snippets-java.md)
-* [JavaScript](snippets-javascript.md)
-* [PowerShell](snippets-powershell.md)
-* [Shell](snippets-shell.md)
+  * [C](snippets-c.md)
+  * [Python](snippets-python.md)
+  * [Batch](snippets-batch.md)
+  * [Java](snippets-java.md)
+  * [JavaScript](snippets-javascript.md)
+  * [PowerShell](snippets-powershell.md)
+  * [Shell](snippets-shell.md)
 
 
 

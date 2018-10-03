@@ -34,5 +34,7 @@
   * [PowerShell](snippets-powershell.md)
   * [Shell](snippets-shell.md)
 
+[WaltheRed](https://github.com/WaltheRed)
+
 <!-- Let the user choose a theme: https://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation) -->
 [gimmick:themechooser](Choose theme)

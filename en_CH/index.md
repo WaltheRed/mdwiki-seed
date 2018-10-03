@@ -1,10 +1,7 @@
-wiki
+<iframe src="https://duckduckgo.com/search.html?prefill=Search DuckDuckGo" style="overflow:hidden;margin:0;padding:0;width:100%;height:40px;" frameborder="0"></iframe>
+
+wiki  
 ====
-[gimmick:FacebookLike ( layout: 'standard', showfaces: false)](https://facebook.com/help/delete_account)
-
-<iframe src="https://duckduckgo.com/search.html?prefill=Search DuckDuckGo" style="overflow:hidden;margin:0;padding:0;width:408px;height:40px;" frameborder="0"></iframe>
-
-
 
 awesome pages
 -------------

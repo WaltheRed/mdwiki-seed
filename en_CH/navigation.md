@@ -11,6 +11,7 @@
 [Linux tricks](pages/tricks.md)
 
 [Guides]()
+
   * [Overview](guides.md)
   * # Linux
   * [Setup SFTP server for remote access](pages/sftp-server.md)
@@ -27,6 +28,7 @@
   - - - -
 
 [Snippets]()
+
   * [C](snippets-c.md)
   * [Python](snippets-python.md)
   * [Batch](snippets-batch.md)

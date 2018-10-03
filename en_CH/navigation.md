@@ -19,13 +19,10 @@
   * [Setup debian (within vbox)](pages/setup-debian.md)
   * [Setup bash](pages/setup-bash.md)
   * [Setup vim](pages/setup-vim.md)
-    - - - -
   * # Windows (but with WSL in mind)
   * [Setup Cmder](pages/setup-cmder.md)
-    - - - -
   * # Windows
   * [Setup Windows](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
-  - - - -
 
 [Snippets]()
 
@@ -36,8 +33,6 @@
   * [JavaScript](snippets-javascript.md)
   * [PowerShell](snippets-powershell.md)
   * [Shell](snippets-shell.md)
-
-
 
 <!-- Let the user choose a theme: https://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation) -->
 [gimmick:themechooser](Choose theme)

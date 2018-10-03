@@ -10,14 +10,12 @@ I/O redirection
 | "Symbol" | Description      |
 | -------- | ---------------- |
 | >        | stdout           |
-| 1>       | "                | 
-| 2>       | stderr           | 
-| &>       | stdout & stdout  | 
+| 1>       | "                |
+| 2>       | stderr           |
+| &>       | stdout & stdout  |
 | 2>&1     | stderr to stdout |
 
 [Source & more](https://www.tldp.org/LDP/abs/html/io-redirection.html)
-
-
 
 Files
 -----
@@ -27,7 +25,6 @@ Create a file (update the access and modification times)
     touch ./file
 
 See: [touch](https://ss64.com/bash/touch.html)
-
 
 Disk speed
 ----------
@@ -56,7 +53,7 @@ add lines to config file
     vi /etc/samba/smb.conf
 
     [public]
-    path = /media/storage/ 
+    path = /media/storage/
     public = yes
     writable = yes
     comment = smb share

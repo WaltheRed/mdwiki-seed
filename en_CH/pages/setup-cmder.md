@@ -1,5 +1,7 @@
 # setup Cmder
 
+## Minimal Configuration (with WSL in mind)
+
 open settings-dialog: <kbd>win</kbd> + <kbd>alt</kbd> + <kbd>p</kbd>
 
 ### default to WSL::bash

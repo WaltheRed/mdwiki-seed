@@ -15,7 +15,7 @@ awesome pages
 cheatsheets
 -----------
 
-[Markdown by markdownguide.org](https://www.markdownguide.org/cheat-sheet)
+[Markdown by markdownguide.org](https://www.markdownguide.org/cheat-sheet) 
 
 [Markdown on github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 

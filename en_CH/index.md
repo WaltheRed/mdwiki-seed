@@ -1,8 +1,6 @@
 wiki
 ====
 
-does this text appear online?
-
 awesome pages
 -------------
 

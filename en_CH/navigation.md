@@ -10,6 +10,8 @@
 
 [Linux tricks](pages/tricks.md)
 
+[Downloads](pages/downloads.md)
+
 [Guides]()
 
   * [Overview](guides.md)

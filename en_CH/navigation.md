@@ -29,6 +29,7 @@
   * [IntelliJ](pages/setup-intellij.md)
 
 [Snippets]()
+
   * [Symbols](pages/snippets-symobls.md)
   * # coding
   * [C](snippets-c.md)

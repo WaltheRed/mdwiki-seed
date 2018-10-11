@@ -25,9 +25,13 @@
   * [Setup Cmder](pages/guides/cmder.md)
   * # Windows
   * [Setup Windows](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+  * # General Software
+  * [IntelliJ](pages/setup-intellij.md)
 
 [Snippets]()
 
+  * [Symbols](pages/snippets-symobls.md)
+  * # coding
   * [C](pages/snippets/c.md)
   * [Python](pages/snippets/python.md)
   * [Batch](pages/snippets/batch.md)

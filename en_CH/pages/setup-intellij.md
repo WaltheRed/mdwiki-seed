@@ -22,3 +22,9 @@ Hidden as in buried within the settings dialog.
 
 - [x] Surround selection on typing quotes or braces
 - [x] Jump outside closing bracket/quote with Tab
+
+### Widescreen tool windows layout
+
+*Settings / Appearance & Behavior / Window Options*
+
+- [x] Widescreen tool windows layout

@@ -14,6 +14,8 @@ awesome pages
 
 [WikiChip](https://en.wikichip.org/)
 
+[C/C++ Reference](http://www.cplusplus.com/reference/clibrary/)
+
 cheatsheets
 -----------
 

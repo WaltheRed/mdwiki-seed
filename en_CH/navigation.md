@@ -40,6 +40,9 @@
   * [PowerShell](pages/snippets/powershell.md)
   * [Shell](pages/snippets/shell.md)
   * [SQL](pages/snippets/sql.md)
+  * [SVN](pages/snippets/svn.md)
+
+[Downloads](pages/todo.md)
 
 <!-- Let the user choose a theme: https://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation) -->
 [gimmick:themechooser](Choose theme)

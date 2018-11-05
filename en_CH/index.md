@@ -1,10 +1,8 @@
 <iframe src="https://duckduckgo.com/search.html?prefill=Search DuckDuckGo" style="overflow:hidden;margin:0;padding:0;width:100%;height:40px;" frameborder="0"></iframe>
 
-wiki  
-====
+# wiki
 
-awesome pages
--------------
+## awesome pages
 
 [SS64](https://ss64.com/) command line reference
 
@@ -14,12 +12,23 @@ awesome pages
 
 [WikiChip](https://en.wikichip.org/)
 
-cheatsheets
------------
+## conventions
+
+### CLI syntax
+
+[docopt](http://docopt.org/) is a library to build cli with a very clear syntax
+
+[how to read syntax conventions ](https://www.ibm.com/support/knowledgecenter/SSLTBW_2.3.0/com.ibm.zos.v2r3.ieag100/bsyntax.htm) for IBM z/OS, it looks quite universal and is very short
+
+## cheatsheets
+
+### markdown
 
 [Markdown by markdownguide.org](https://www.markdownguide.org/cheat-sheet)
 
 [Markdown on github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+### vim
 
 [vim quick reference card(s)](http://tnerual.eriogerg.free.fr/vim.html) ([html](http://tnerual.eriogerg.free.fr/vimqrc.html), [pdf](http://tnerual.eriogerg.free.fr/vimqrc.pdf))
 
@@ -27,20 +36,17 @@ cheatsheets
 
 [vim shortcuts (all in one)](https://vim.rtorr.com/)
 
-vim
----
+## vim
 
 [vim tips on vim.wikia.com](http://vim.wikia.com/wiki/Best_Vim_Tips)
 
 [vi/vim tips by viemu.com](http://www.viemu.com/vi_vim_tips.html)
 
-shell
------
+## shell
 
 [Shell Scripting Tutorial](https://www.shellscript.sh/)
 
-must-read(s)
-------------
+## must-read(s)
 
 [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/)
 

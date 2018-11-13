@@ -306,7 +306,7 @@ The resulting conemu.xml looks like this:
 			<value name="TabConsole" type="string" data="     %n     "/>
 			<value name="TabSkipWords" type="string" data="Administrator:|Администратор:"/>
 			<value name="TabPanels" type="string" data="&lt;%c&gt; %s"/>
-			<value name="TabEditor" type="string" data="&lt;%c.%i&gt;{%s}"/>
+			<value name="TabEditor" type="string" data="&lt;%c.%i&gt;\{%s\}"/>
 			<value name="TabEditorModified" type="string" data="&lt;%c.%i&gt;[%s] *"/>
 			<value name="TabViewer" type="string" data="&lt;%c.%i&gt;[%s]"/>
 			<value name="TabLenMax" type="ulong" data="20"/>

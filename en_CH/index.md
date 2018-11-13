@@ -12,7 +12,7 @@
 
 [WikiChip](https://en.wikichip.org/)
 
-## conventions
+[C/C++ Reference](http://www.cplusplus.com/reference/clibrary/)
 
 ### CLI syntax
 

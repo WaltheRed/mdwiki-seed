@@ -28,3 +28,10 @@ Hidden as in buried within the settings dialog.
 *Settings / Appearance & Behavior / Window Options*
 
 - [x] Widescreen tool windows layout
+
+
+### Show virtual space at file bottom / Scroll past EOF
+
+*Settings / Editor / General / Virtual Space*
+
+- [x] Show virtual space at file bottom

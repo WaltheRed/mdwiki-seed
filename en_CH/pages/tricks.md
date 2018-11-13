@@ -65,6 +65,10 @@ clone persmissions
     chown --reference=source target
     chmod --reference=source target
 
+make file executable
+
+    chmod +x ./file
+
 ss64:
 [chown](https://ss64.com/bash/chown.html)
 [chmod](https://ss64.com/bash/chmod.html)
@@ -102,7 +106,6 @@ from unix to dos
 "AutoAdminLogon"="0"
 "DefaultPassword"=""
 ```
-
 
 [How to turn on automatic logon in Windows](https://support.microsoft.com/en-us/help/324737/how-to-turn-on-automatic-logon-in-windows)
 

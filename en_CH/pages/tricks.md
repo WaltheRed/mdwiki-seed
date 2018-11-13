@@ -58,19 +58,16 @@ add lines to config file
 restart service
     systemctl restart smbd.service
 
-## chmod (file attributes)
+## permissions (chown & chmod)
 
-Make file executable
+clone persmissions
 
-    chmod +x ./file
+    chown --reference=source target
+    chmod --reference=source target
 
-[chmod](https://ss64.com/bash/chmod.html)
-
-## chown (file ownership)
-
+ss64:
 [chown](https://ss64.com/bash/chown.html)
-
-Just remember how to command is called for now, ok? :)
+[chmod](https://ss64.com/bash/chmod.html)
 
 ## APT
 
@@ -91,3 +88,28 @@ from unix to dos
 ## Markdown
 
 [add footnotes to GitHub-flavoured Markdown](https://stackoverflow.com/a/32119820)
+
+# Windows
+
+## autologon
+
+### using the registry
+
+```registry
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]
+
+"DefaultUserName"=""
+"AutoAdminLogon"="0"
+"DefaultPassword"=""
+```
+
+
+[How to turn on automatic logon in Windows](https://support.microsoft.com/en-us/help/324737/how-to-turn-on-automatic-logon-in-windows)
+
+### using the gui tool
+
+check & uncheck checkbox to get a prompt on OK
+
+    netplwiz
+
+```AutoAdminLogon``` must be 1 to use netplwiz

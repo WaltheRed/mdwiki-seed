@@ -12,7 +12,7 @@
 
 [WikiChip](https://en.wikichip.org/)
 
-[C/C++ Reference](http://www.cplusplus.com/reference/clibrary/)
+## conventions
 
 ### CLI syntax
 
@@ -23,12 +23,6 @@
 ## cheatsheets
 
 ### markdown
-=======
-[C/C++ Reference](http://www.cplusplus.com/reference/clibrary/)
-
-cheatsheets
------------
->>>>>>> gh-pages
 
 [Markdown by markdownguide.org](https://www.markdownguide.org/cheat-sheet)
 

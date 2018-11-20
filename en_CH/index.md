@@ -22,13 +22,11 @@
 
 ## cheatsheets
 
-### markdown
-=======
+### C/C++
+
 [C/C++ Reference](http://www.cplusplus.com/reference/clibrary/)
 
-cheatsheets
------------
->>>>>>> gh-pages
+### markdown
 
 [Markdown by markdownguide.org](https://www.markdownguide.org/cheat-sheet)
 

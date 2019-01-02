@@ -22,6 +22,10 @@
 
 ## cheatsheets
 
+### GIT
+
+[Interactive GIT Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html)
+
 ### C/C++
 
 [C/C++ Reference](http://www.cplusplus.com/reference/clibrary/)
@@ -55,3 +59,5 @@
 [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/)
 
 [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+
+[A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)

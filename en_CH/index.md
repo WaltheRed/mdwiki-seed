@@ -4,6 +4,8 @@
 
 ## awesome pages
 
+[musicForProgramming](http://musicforprogramming.net/)
+
 [SS64](https://ss64.com/) command line reference
 
 [tldr](https://tldr.ostera.io/) simple & short manpages

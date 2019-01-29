@@ -27,6 +27,10 @@
   * [Setup Windows](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
   * # General Software
   * [IntelliJ](pages/guides/intellij.md)
+  * # Image Manipulation
+  * [ImageMagick](pages/guides/imagemagick.md)
+  * # Other
+  * [Create multiple Snapshots from a video file](pages/guids/vlc-snapshots.md)
 
 [Snippets]()
 

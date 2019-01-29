@@ -8,6 +8,8 @@
 
 ## awesome pages
 
+[musicForProgramming](http://musicforprogramming.net/)
+
 [SS64](https://ss64.com/) command line reference
 
 [tldr](https://tldr.ostera.io/) simple & short manpages
@@ -25,6 +27,10 @@
 [how to read syntax conventions ](https://www.ibm.com/support/knowledgecenter/SSLTBW_2.3.0/com.ibm.zos.v2r3.ieag100/bsyntax.htm) for IBM z/OS, it looks quite universal and is very short
 
 ## cheatsheets
+
+### GIT
+
+[Interactive GIT Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html)
 
 ### C/C++
 
@@ -59,3 +65,5 @@
 [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/)
 
 [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+
+[A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)

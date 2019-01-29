@@ -32,6 +32,10 @@ $has_table.remove("b")
 # output
 Write-Host "Hello World!"
 
+# progress bar
+[Write-Progress](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/write-progress?view=powershell-6)
+
+
 # if-elseif-else
 if (condition) {command_block}
 elseif (condition) {command_block}
